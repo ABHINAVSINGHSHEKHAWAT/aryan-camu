@@ -10,7 +10,7 @@ function Cafeteria() {
         <h3 className="page-title">Cafeteria</h3>
 
         <div className="page-info">
-          19-Feb-2026 · Today · Ground Floor
+          25-Feb-2026 · Today · Ground Floor
         </div>
       </div>
 
